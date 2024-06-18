@@ -1,7 +1,9 @@
+![ALACARTECH](https://github.com/Alacartech/.github/assets/93845604/3f054ce3-aa30-46ab-9bb1-de56596aaf32)
+
 ```markdown
 # Areas of Expertise
 
-Welcome to our GitHub repository! Below are some of our key areas of expertise:
+Welcome to our GitHub readme! Below are some of our key areas of expertise:
 
 ## Integration and Development
 
@@ -64,3 +66,5 @@ Welcome to our GitHub repository! Below are some of our key areas of expertise:
 - OpenPipe
 - OpenAI
 - BrainTrust
+
+Feel free to drop us an email with your requirement & we'll get back to you with an estimate promptly.
