@@ -1,19 +1,18 @@
 ![ALACARTECH](https://github.com/Alacartech/.github/assets/93845604/3f054ce3-aa30-46ab-9bb1-de56596aaf32)
 
-```markdown
 # Areas of Expertise
 
-Welcome to our GitHub readme! Below are some of our key areas of expertise:
+Welcome to our GitHub readme! Below are some key areas we have fully unlocked:
 
 ## Integration and Development
 
-### MultiSoft Integration
+### MuleSoft Integration
 - CRM Development
   - Salesforce
   - Microsoft Dynamics 365
   - HubSpot
 - System/Enterprise Integration
-  - API integration using Mulesoft
+  - API integration using MuleSoft
   - .NET
   - BizTalk
 
