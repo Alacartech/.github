@@ -47,15 +47,34 @@ Welcome to our GitHub readme! Below are some key areas we have fully unlocked:
   - Zapier
   - Power Automate
 
-## Machine Learning & LLMs
+## Machine Learning, AI & LLMs
 
-### Artificial Intelligence
-- LLMs from scratch
-- Training base models on custom data
-- Finetuning models
-- LLM evaluation, logging & analytics
+### Strategy & Vision:
 
-### Platforms we have expertise in
+- Define your AI goals & build a roadmap.
+- Analyze your needs and create a compelling LLM business case.
+- Guide you through ethical and responsible AI development.
+
+### Model Selection & Customization:
+
+- Expert model recommendations based on your requirements.
+- Fine-tune pre-trained models for optimal performance.
+- Develop custom LLMs tailored to your specific needs.
+
+### Applications & Deployment:
+
+- Industry-specific LLM solutions for enhanced efficiency and customer experience.
+- Craft powerful prompts for accurate and relevant results.
+- Seamlessly integrate LLMs into your systems using user-friendly APIs.
+
+### Optimization & Support:
+
+- Continuously monitor and analyze model performance.
+- Ensure your LLMs are up-to-date and operating at their peak.
+- Empower your team with LLM knowledge and management skills. 
+
+
+### Platforms we use:
 - HuggingFace
 - Replicate
 - Modal Labs
